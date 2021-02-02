@@ -1,0 +1,33 @@
+00:00:00.713242 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.713244 Log opened 2020-12-27T00:37:50.832920600Z
+00:00:00.713244 Build Type: release
+00:00:00.713248 OS Product: Windows 10
+00:00:00.713249 OS Release: 10.0.19042
+00:00:00.713249 OS Service Pack: 
+00:00:00.726818 DMI Product Name: OMEN by HP Obelisk Desktop 875-0xxx
+00:00:00.729726 DMI Product Version:  
+00:00:00.729738 Firmware type: UEFI
+00:00:00.729900 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.729915 Host RAM: 16261MB (15.8GB) total, 11559MB (11.2GB) available
+00:00:00.729918 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.729919 Process ID: 17520
+00:00:00.729919 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.730354 Qt version: 5.6.2
+00:00:00.771965 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.525939 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.548730 refreshCertificates/#3: Found 1/80 SSL certs we/you trust (previously 1/73).
+00:29:20.374727 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:29:20.377684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:29.988586 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:34:28.560446 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:35:53.191212 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:16.375330 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:37:04.294331 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:45:55.631767 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:54:16.949605 GUI: UIMediumEnumerator: Medium with key={{7300335f-e6d8-4b78-8ec2-85e772562ed5}} created
+00:54:16.974143 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:54:21.750526 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:54:21.778562 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:40.983141 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:01:15.492843 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:01:15.492927 Log rotated - Log started 2020-12-27T00:37:50.832920600Z

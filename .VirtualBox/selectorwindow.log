@@ -1,0 +1,17 @@
+00:00:00.497760 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.497762 Log opened 2020-12-29T16:49:58.825318000Z
+00:00:00.497762 Build Type: release
+00:00:00.497766 OS Product: Windows 10
+00:00:00.497767 OS Release: 10.0.19042
+00:00:00.497767 OS Service Pack: 
+00:00:00.510923 DMI Product Name: OMEN by HP Obelisk Desktop 875-0xxx
+00:00:00.513743 DMI Product Version:  
+00:00:00.513757 Firmware type: UEFI
+00:00:00.513969 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.513986 Host RAM: 16261MB (15.8GB) total, 9996MB (9.7GB) available
+00:00:00.513990 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.513991 Process ID: 18112
+00:00:00.513991 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.514135 Qt version: 5.6.2
+00:00:00.526975 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.936946 GUI: UIMediumEnumerator: Medium-enumeration finished!
